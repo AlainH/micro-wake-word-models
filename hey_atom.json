@@ -2,6 +2,7 @@
   "type": "micro",
   "wake_word": "hey_atom",
   "author": "Alain Hendrikse",
+  "website": "https://github.com/alainh",
   "model": "hey_atom.tflite",
   "trained_languages": ["en"],
   "version": 1,
